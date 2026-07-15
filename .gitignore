@@ -1,6 +1,12 @@
+# Compiled files
 *.exe
+*.out
 *.o
 *.obj
-*.out
 
+# VS Code settings
 .vscode/
+
+# Build folders
+build/
+bin/
